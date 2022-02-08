@@ -1,0 +1,1 @@
+CREATE TABLE `users` ( `id` INT NOT NULL AUTO_INCREMENT , `user_id` INT(33) NOT NULL , `status` INT NOT NULL , `first_name` VARCHAR(255) NOT NULL , `last_name` VARCHAR(255) NOT NULL , PRIMARY KEY (`id`)) ENGINE = MyISAM;

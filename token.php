@@ -1,0 +1,5 @@
+<?php
+
+$token = "Your token";
+
+?>
